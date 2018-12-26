@@ -1,11 +1,17 @@
 # useful
 
 https://labex.io/courses/linux-for-noobs
+
 https://labex.io/courses/jinja2-template
+
 https://labex.io/courses/awk-tutorial
+
 https://labex.io/courses/grep-tutorial
+
 https://labex.io/courses/sed-tutorial
+
 https://katacoda.com/kevin_nz/scenarios/linux-troubleshooting-101
+
 https://katacoda.com/chinnidiwakar/scenarios/1
 
 https://blog.storagecraft.com/netflix-simian-cloud-army/
