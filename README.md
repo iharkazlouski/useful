@@ -1,5 +1,12 @@
 # useful
 
+
+#### Grafana dashboards
+
+mysql_exporter prometheus
+https://grafana.com/grafana/dashboards/11323
+
+
 https://labex.io/courses/linux-for-noobs
 
 https://labex.io/courses/jinja2-template
